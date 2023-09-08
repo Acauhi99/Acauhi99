@@ -1,20 +1,24 @@
-# WELL COME TO MY GITHUB 👋
+# Supp I'm Acauhi, Well come to my Github 👋
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/acauhi_mateus/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/acauhi/)
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/12175962921)
+### About :
+<p>A passionate back-end developer with a strong focus on web technologies. My journey in the world of coding began with a curiosity-driven exploration of computers and technology, and it has only grown stronger ever since.<br>
+Let's connect and collaborate on exciting projects, share insights, and embark on a journey of continuous learning in the ever-evolving world of technology.</p>
+<br>
 
-![Acauhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Acauhi99&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Acauhi99&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Acauhi99&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+### Technologies and Tools :
 
-## Technologies I use in my daily life.
-
-<div style="display: inline_block"><br/>
-    <img align="center" height="50" width="150" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
-    <img align="center" height="50" width="150" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-    <img align="center" height="50" width="150" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-
-</div><br/>
+<div style="display: inline_block">
+    <img align="center" height="50" width="50
+    " src="imgs/vscode.svg">
+    <img align="center" height="80" width="80" src="imgs/html.svg">
+    <img align="center" height="50" width="50" src="imgs/python.svg">
+    <img align="center" height="80" width="80" src="imgs/css.svg">
+    <img align="center" height="60" width="60" src="imgs/php.png">
+    <img align="center" height="60" width="60" src="imgs/javascript.svg">
+    <img align="center" height="80" width="80" src="imgs/csharp.png">
+    <img align="center" height="100" width="100" src="imgs/git.svg">
+</div>
 
 #### "Conhecimento sem ação é vazio, e ação sem conhecimento é cega."
