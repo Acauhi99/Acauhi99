@@ -10,8 +10,7 @@ Let's connect and collaborate on exciting projects, share insights, and embark o
 ### Technologies and Tools :
 
 <div style="display: inline_block">
-    <img align="center" height="50" width="50
-    " src="imgs/vscode.svg">
+    <img align="center" height="50" width="50" src="vscode.svg">
     <img align="center" height="80" width="80" src="html.svg">
     <img align="center" height="50" width="50" src="python.svg">
     <img align="center" height="80" width="80" src="css.svg">
