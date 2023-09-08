@@ -12,13 +12,13 @@ Let's connect and collaborate on exciting projects, share insights, and embark o
 <div style="display: inline_block">
     <img align="center" height="50" width="50
     " src="imgs/vscode.svg">
-    <img align="center" height="80" width="80" src="imgs/html.svg">
-    <img align="center" height="50" width="50" src="imgs/python.svg">
-    <img align="center" height="80" width="80" src="imgs/css.svg">
-    <img align="center" height="60" width="60" src="imgs/php.png">
-    <img align="center" height="60" width="60" src="imgs/javascript.svg">
-    <img align="center" height="80" width="80" src="imgs/csharp.png">
-    <img align="center" height="100" width="100" src="imgs/git.svg">
+    <img align="center" height="80" width="80" src="html.svg">
+    <img align="center" height="50" width="50" src="python.svg">
+    <img align="center" height="80" width="80" src="css.svg">
+    <img align="center" height="60" width="60" src="php.png">
+    <img align="center" height="60" width="60" src="javascript.svg">
+    <img align="center" height="80" width="80" src="csharp.png">
+    <img align="center" height="100" width="100" src="git.svg">
 </div>
 
 #### "Conhecimento sem ação é vazio, e ação sem conhecimento é cega."
