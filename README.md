@@ -1,4 +1,4 @@
-# Supp I'm Acauhi, Well come to my Github 👋
+# Supp I'm Acauhi, Welcome to my Github 👋
 
 ### About :
 <p>A passionate back-end developer with a strong focus on web technologies. My journey in the world of coding began with a curiosity-driven exploration of computers and technology, and it has only grown stronger ever since.<br>
