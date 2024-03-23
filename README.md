@@ -1,7 +1,7 @@
 # I'm Acauhi, Welcome to my Github 👋
 
 ### About :
-<p>A passionate back-end developer with a strong focus on web technologies. My journey in the world of coding began with a curiosity-driven exploration of computers and technology, and it has only grown stronger ever since.<br>
+<p>A passionate software developer with a strong focus on web technologies. My journey in the world of coding began with a curiosity-driven exploration of computers and technology, and it has only grown stronger ever since.<br>
 Let's connect and collaborate on exciting projects, share insights, and embark on a journey of continuous learning in the ever-evolving world of technology.</p>
 <br>
 
