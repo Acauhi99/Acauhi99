@@ -10,7 +10,7 @@
 ### Technologies and Tools :
 
 <div style="display: inline_block">
-    <img align="center" height="80" width="180" src="./imgs/javascript.svg">
+    <img align="center" height="80" width="80" src="./imgs/javascript.svg">
     <img align="center" height="80" width="80" src="./imgs/java.png">
     <img align="center" height="100" width="100" src="./imgs/html.svg">
     <img align="center" height="100" width="100" src="./imgs/css.svg">
