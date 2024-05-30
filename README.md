@@ -10,10 +10,12 @@
 ### Technologies and Tools :
 
 <div style="display: inline_block">
-    <img align="center" height="60" width="60" src="javascript.svg">
-    <img align="center" height="80" width="80" src="html.svg">
-    <img align="center" height="80" width="80" src="css.svg">
-    <img align="center" height="100" width="100" src="git.svg">
+    <img align="center" height="60" width="60" src="./imgs/javascript.svg">
+    <img align="center" height="100" width="100" src="./imgs/java.png">
+    <img align="center" height="80" width="80" src="./imgs/html.svg">
+    <img align="center" height="80" width="80" src="./imgs/css.svg">
+    <img align="center" height="100" width="100" src="./imgs/sql.png">
+    <img align="center" height="100" width="100" src="./imgs/git.svg">
 </div>
 
 #### "Conhecimento sem ação é vazio, e ação sem conhecimento é cega."
