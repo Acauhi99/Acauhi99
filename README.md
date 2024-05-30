@@ -1,8 +1,8 @@
 # I'm Acauhi, Welcome to my Github 👋
 
 ### About :
-<p>A passionate software developer with a strong focus on web technologies. My journey in the world of coding began with a curiosity-driven exploration of computers and technology, and it has only grown stronger ever since.<br>
-Let's connect and collaborate on exciting projects, share insights, and embark on a journey of continuous learning in the ever-evolving world of technology.</p>
+<p>Desenvolvedor de Software Junior, atualmente freelancer e estudante de Análise e Desenvolvimento de Sistemas. Excelente conhecimento de lógica de programação, estrutura de dados, orientação a objetos, bancos de dados relacionais e versionamento de código com Git. Em busca de um codigo coeso e desacoplado.
+</p>
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Acauhi99&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
