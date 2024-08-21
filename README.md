@@ -1,11 +1,6 @@
-<head>
-  <link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;500;700&display=swap" rel="stylesheet">
-</head>
-
 <p align="center">
-  <a href="https://github.com/Acauhi99" style="color: #F73232FF; font-family: 'Fira Code', monospace; font-size: 24px;">
-    Mateus Acauhi
-  </a>
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=F73232&width=435&lines=Mateus+Acauhi" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
