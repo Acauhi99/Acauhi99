@@ -141,4 +141,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Acauhi99&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
-#### "Conhecimento sem ação é vazio, e ação sem conhecimento é cega."
+#### ""Os filósofos limitaram-se a interpretar o mundo de diversas maneiras, o que importa é transformá-lo.""
