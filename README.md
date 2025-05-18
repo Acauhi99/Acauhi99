@@ -136,11 +136,13 @@
 
 </details>
   <summary><h2>🎓 Certificados</h2></summary>
-  <p>
+  <span>
     <img alt="AWS-CP" src="./badges/aws-certified-cloud-practitioner.png" width="150" height="150">
-  </p>
-
-<!-- Most Used Languages -->
+  </span>
+  <span>
+    <img alt="AWS-KC" src="./badges/aws-knowledge-compute.png" width="150" height="150">
+  </span>
+  <summary><h2>🖥️ Languages</h2></summary>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Acauhi99&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
