@@ -1,11 +1,11 @@
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F73232&width=435&lines=Mateus+Acauhi" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FFD43B&width=435&lines=Mateus+Acauhi" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F73232&width=435&lines=Full-Stack+Web+Developer;Every+day+learning+new+things" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00ADD8&width=435&lines=Full-Stack+Web+Developer;Every+day+learning+new+things" alt="Typing SVG" /></a>
 </p>
 
 <!-- Social icons section -->
@@ -95,9 +95,6 @@
     <span>
         <img alt="Redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white">
     </span>
-    <span>
-        <img alt="Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
-    </span>
   </p>
   <p>
     <span>
@@ -122,17 +119,6 @@
       <img alt="Spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
     </span>
   </p>
-  <p>
-    <span>
-        <img alt="Prisma" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white">
-    </span>
-    <span>
-        <img alt="Hibernate" src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white">
-    </span>
-    <span>
-        <img alt="JWT" src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens">
-    </span>
-  </p>
 
 </details>
   <summary><h2>🎓 Certificados</h2></summary>
@@ -146,4 +132,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Acauhi99&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-#### ""Os filósofos limitaram-se a interpretar o mundo de diversas maneiras, o que importa é transformá-lo.""
+#### "Os filósofos limitaram-se a interpretar o mundo de diversas maneiras, o que importa é transformá-lo."
